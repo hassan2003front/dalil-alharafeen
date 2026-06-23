@@ -1,0 +1,430 @@
+{
+  "nav": {
+    "brand": "Dalil Al-Harafeen",
+    "home": "Home",
+    "howItWorks": "How It Works",
+    "services": "Services",
+    "about": "About Us",
+    "workers": "Download Now",
+    "contact": "Contact Us",
+    "login": "Login",
+    "register": "Register",
+    "jobs": "My Jobs",
+    "support": "Support",
+    "notifications": "Notifications"
+  },
+  "notifications": {
+    "new": "You have {{count}} unread notifications",
+    "markAllRead": "Mark all as read",
+    "clearAll": "Clear all",
+    "delete": "Delete notification",
+    "emptyTitle": "No notifications yet",
+    "emptyDesc": "All updates and messages will appear here once they arrive."
+  },
+  "hero": {
+    "badge": "The #1 Platform for Craftsmen in Egypt",
+    "title": "Trusted Craftsmen Directory",
+    "subtitle": "Connect instantly with verified craftsmen — across Egypt for all home services.",
+    "cta": "Start Now for Free"
+  },
+  "welcome": "Welcome",
+  "login": "Login",
+  "register": "Register",
+  "home": {
+    "title": "Home",
+    "welcomeBack": "Welcome Back",
+    "newRequest": "New Request",
+    "hello": "Hello, {{name}}",
+    "search": "Search",
+    "heroTitle": "Request your service now with ease",
+    "heroDesc": "Get offers from the best verified craftsmen in your area within minutes.",
+    "trending": "Trending",
+    "offers": "Offers",
+    "verified": "Verified",
+    "support": "Support",
+    "explore": "EXPLORE CRAFTS",
+    "bestRated": "TOP RATED",
+    "proBannerTitle": "Are you an expert?",
+    "proBannerDesc": "Join Dalil Al-Harafeen now and double your monthly income.",
+    "registerPro": "Register as Pro",
+    "app": {
+      "title": "All Craftsmen in Your Pocket",
+      "subtitle": "The Craftsmen Directory website makes it easy for you to search and book in one place.",
+      "feature1": "Easy search for technicians",
+      "feature2": "Easy communication between user and craftsman",
+      "feature3": "24/7 direct technical support"
+    },
+    "stats": {
+      "title": "Why Choose Craftsmen Directory?",
+      "subtitle": "Because we’re not just an app, we’re your partner in ensuring safety, quality, and peace of mind for every home task."
+    },
+    "features": {
+      "items": {
+        "speed": {
+          "title": "Your Rights Guaranteed",
+          "desc": "We’ve got your back; if anything goes wrong or there's a delay, our support team steps in to fix it instantly."
+        },
+        "verified": {
+          "title": "All Services in One Place",
+          "desc": "From plumbing to carpentry and electricity, we’ve gathered the best experts in every field at the touch of a button."
+        },
+        "quality": {
+          "title": "Punctual & Precise",
+          "desc": "Your time is valuable; our craftsmen strictly stick to their schedules to get your job done without any delays."
+        }
+      }
+    },
+    "faq": {
+      "title": "Frequently Asked Questions",
+      "subtitle": "Everything you want to know about Dalil Al-Harafeen.",
+      "q1": "Is the service guaranteed?",
+      "a1": "Yes, all services booked through the app are guaranteed by us. In case of dissatisfaction, we redo the work or compensate.",
+      "q2": "How do I register on the site?",
+      "a2": "It's easy! If you need a service, register as a 'Client'. If you're a craftsman looking for work, register as a 'Craftsman' and start your journey with us.",
+      "q3": "How do I request a service as a 'Client'?",
+      "a3": "1- Select the craft, fill in your request details (description, location, and time), and post it; craftsmen will start sending you quotes.\n2- Selection is based on the profile, overview of the user, as well as experience and geographical location.",
+      "q4": "How do I work as a 'Craftsman' and receive jobs?",
+      "a4": "After activating your account, you'll see all available requests. Choose the job that fits you, send your quote, and if the client accepts, you can chat with them to finish the task."
+    },
+    "testimonials": {
+      "title": "Why do we build Dalil Al-Harafeen?",
+      "subtitle": "To solve the struggle of searching for quality work while ensuring safety and fair pricing for everyone."
+    },
+    "gallery": {
+      "title": "Our Work in Reality",
+      "subtitle": "Our team of craftsmen complete thousands of tasks daily.",
+      "alt": "Our Work Photo"
+    }
+  },
+  "dashboard": {
+    "managementCenter": "Management Center",
+    "managementDesc": "Tools to control your business",
+    "liveRequests": "Live Requests",
+    "urgent": "Urgent",
+    "online": "Online",
+    "performance": "Weekly Performance",
+    "growth": "+12.5% growth from last month",
+    "searchPlaceholder": "Search market requests...",
+    "activeJobs": "Active Jobs"
+  },
+  "notifications": {
+    "title": "Notifications",
+    "markAllRead": "Mark all as read",
+    "empty": "No new notifications",
+    "newProposal": "New proposal on your request #{{id}}",
+    "orderUpdate": "Update on order status #{{id}}",
+    "paymentSuccess": "Payment successful for task #{{id}}"
+  },
+  "auth": {
+    "email": "Email Address",
+    "fullName": "Full Name",
+    "password": "Password",
+    "noAccount": "Don't have an account?",
+    "hasAccount": "Already have an account?",
+    "loginDesc": "Login to access the best craftsmen",
+    "registerDesc": "Join us today and start your journey",
+    "welcomeBack": "Welcome back",
+    "client": "Client",
+    "craftsman": "Craftsman",
+    "demoLogin": "Demo Login",
+    "invalid": "Invalid email or password",
+    "confirmPassword": "Confirm Password",
+    "passwordMismatch": "Passwords do not match",
+    "location": "Location"
+  },
+  "common": {
+    "daysAgo": "{{count}} days ago",
+    "viewAll": "View All"
+  },
+  "order": {
+    "details": "Order Details",
+    "notFound": "Order not found",
+    "statusOrdered": "Ordered",
+    "statusProcessing": "Processing",
+    "statusFinished": "Finished",
+    "liveTracking": "Live Tracking",
+    "stageCompleted": "Stage Completed",
+    "pendingStage": "Pending Stage",
+    "contactSupport": "Facing a problem? Contact Support",
+    "priceOnInspection": "Price on Inspection"
+  },
+  "payment": {
+    "total": "Total Cost",
+    "method": "Payment Method",
+    "history": "Transaction History"
+  },
+  "seo": {
+    "homeTitle": "Dalil Al-Harafeen | Best Plumber, Electrician, and Carpenter in Egypt",
+    "homeDesc": "The first platform in Egypt to search for the most skilled trusted craftsmen. Plumbing, electricity, carpentry, and comprehensive home maintenance with the highest quality.",
+    "aboutTitle": "About Us | Our Vision and Story serving the Egyptian community",
+    "aboutDesc": "Learn about Dalil Al-Harafeen team and our vision to develop the home services sector in Egypt through trust and transparency.",
+    "contactTitle": "Contact Us | Technical support and help 24/7",
+    "contactDesc": "Do you have an inquiry? Dalil Al-Harafeen support team is ready to answer your questions and help you anytime."
+  },
+  "contact": {
+    "title": "Contact Us",
+    "subtitle": "Do you have a question or need help? We are always here.",
+    "office": "Our Office",
+    "officeValue": "Cairo, Egypt — Serving all governorates",
+    "linkedin": "LinkedIn",
+    "linkedinValue": "dalil alharafeen",
+    "email": "Email Address",
+    "emailValue": "dalilalharafeen@gmail.com",
+    "hours": "Working Hours",
+    "hoursValue": "Sunday – Thursday: 9 AM – 6 PM",
+    "formTitle": "Send us a message",
+    "talkTitle": "Let's Talk",
+    "talkSubtitle": "We usually respond within a few hours.",
+    "successTitle": "Message Sent!",
+    "successDesc": "We will get back to you as soon as possible. Usually within hours!",
+    "form": {
+      "name": "Full Name",
+      "namePlaceholder": "Enter your name here...",
+      "email": "Email Address",
+      "emailPlaceholder": "example@mail.com",
+      "message": "Message",
+      "messagePlaceholder": "How can we help you?",
+      "submit": "Send Message"
+    }
+  },
+  "about": {
+    "title": "About Us",
+    "description": "We are not just a directory — we are your trusted partner to reach the best skilled hands for your home and business.",
+    "team": "Meet Our Team",
+    "teamDesc": "The creative and innovative minds that built Dalil Al-Harafeen.",
+    "foundingMember": "Founding Member",
+    "valuesTitle": "Our Core Values",
+    "values": {
+      "trust": "Trust",
+      "trustDesc": "We build long-term relationships with our clients and craftsmen based on credibility.",
+      "integrity": "Integrity",
+      "integrityDesc": "We commit to the highest ethical and professional standards in every transaction.",
+      "excellence": "Excellence",
+      "excellenceDesc": "We always strive to provide the best possible quality in all services."
+    },
+    "vision": "Our Vision",
+    "visionDesc": "To become the leading platform in Egypt connecting skilled craftsmen with those who need them. We strive to raise the level of manual work through a safe, transparent, and seamless environment for everyone.",
+    "story": "Our Story",
+    "storyDesc": "The idea stemmed from a simple frustration: finding a reliable plumber or electrician shouldn't be a gamble. We built the Tradesmen Directory to bridge the gap between tradespeople and the community.",
+    "journeyTitle": "Our Journey So Far",
+    "journeySubtitle": "How we started and how we plan for the future",
+    "members": [
+      {
+        "name": "Heba-Allah Mohamed Barghash",
+        "email": "hebabarghash1@gmail.com"
+      },
+      {
+        "name": "Sama Mohamed Badr",
+        "email": "sama25374@gmail.com"
+      },
+      {
+        "name": "Nourhan Ashraf El-Bassiouny",
+        "email": "norhanashraf92255@gmail.com"
+      },
+      {
+        "name": "Hassan Mohamed Abdel-Aty",
+        "email": "hassanmohamed0258mk@gmail.com"
+      },
+      {
+        "name": "Abdel-Wahab Idriss El-Hassanein",
+        "email": "iiabdoho@gmail.com"
+      },
+      {
+        "name": "Mohamed Ahmed El-Mashad",
+        "email": "bbuuoub@gmail.com"
+      }
+    ],
+    "journey": [
+      {
+        "year": "2025",
+        "title": "Start of Idea",
+        "desc": "The idea emerged from the urgent need for a reliable system for craftsmen in the Egyptian market."
+      },
+      {
+        "year": "2025",
+        "title": "Building the Platform",
+        "desc": "Our team started working on developing a sophisticated technical system that combines speed and security."
+      },
+      {
+        "year": "2026",
+        "title": "Official Launch",
+        "desc": "The first version of the program was launched and is now available for use by the first group of craftsmen and clients."
+      }
+    ]
+  },
+  "terms": {
+    "title": "Terms & Privacy",
+    "subtitle": "Our commitment to your safety and rights",
+    "verified": "Verified & Approved",
+    "privacy": {
+      "title": "Privacy Policy",
+      "content": "We take your privacy seriously. We only collect necessary data to provide you with the best service, and we don't share it with third parties without your permission."
+    },
+    "terms": {
+      "title": "Terms of Use",
+      "content": "By using the platform, you agree to abide by quality standards and professional conduct with craftsmen."
+    },
+    "security": {
+      "title": "Security & Guarantee",
+      "content": "All our craftsmen undergo rigorous vetting to ensure your home's safety and the quality of work performed."
+    }
+  },
+  "crafts": {
+    "title": "Crafts",
+    "desc": "Discover the most skilled experts in various fields"
+  },
+  "topRated": "Top Rated",
+  "craftsmen": {
+    "title": "Top Craftsmen",
+    "subtitle": "Connect with the most skilled verified experts in your area",
+    "all": "All Craftsmen",
+    "portfolio": "Portfolio",
+    "reviewsTitle": "Customer Reviews",
+    "bookingWith": "Booking with",
+    "verified": "Verified & Approved",
+    "reviews": "Reviews",
+    "jobsDone": "Jobs Done",
+    "priceLabel": "Inspection Price",
+    "aboutMe": "About Me",
+    "bookNow": "Book Now",
+    "pricing": "Pricing Model",
+    "bioFallback": "No bio description provided yet by the expert.",
+    "proposalsHistory": {
+      "title": "Proposals History"
+    },
+    "reviewsHistory": {
+      "title": "Reviews History",
+      "subtitle": "What customers say about your services"
+    }
+  },
+  "activeJobs": {
+    "title": "Active Jobs",
+    "subtitle": "Track your active jobs and communicate with clients",
+    "call": "Call",
+    "chat": "Chat",
+    "finish": "Finish Job",
+    "noneFound": "No active jobs currently"
+  },
+  "proposals": {
+    "title": "My Proposals",
+    "subtitle": "Record of your submitted proposals and their status",
+    "accepted": "Accepted",
+    "rejected": "Rejected",
+    "pending": "Pending",
+    "empty": "You have not submitted any proposals yet."
+  },
+  "support": {
+    "welcome": "Welcome to the Support Center! How can we assist you today?",
+    "placeholder": "Type your query here...",
+    "response": "Thank you for contacting us. Your message has been received and a support representative will respond shortly.",
+    "online": "Online"
+  },
+  "market": {
+    "title": "Job Market",
+    "subtitle": "Browse client requests near you and submit proposals",
+    "searchPlaceholder": "Search available market requests...",
+    "urgent": "Urgent",
+    "noJobs": "No jobs available",
+    "noJobsDesc": "There are no pending jobs in your area right now. Check back later."
+  },
+  "reviewsHistory": {
+    "title": "Reviews History",
+    "subtitle": "What clients say about the quality and speed of your completed jobs"
+  },
+  "chat": {
+    "title": "Chats",
+    "desc": "Communicate directly with experts to discuss your requests",
+    "search": "Search in chats...",
+    "since": "Since",
+    "online": "Online",
+    "activeAgo": "Active recently",
+    "typing": "Typing...",
+    "welcome": "Hello! How can I help you?",
+    "typeMessage": "Type your message here...",
+    "clear": "Clear Chat",
+    "empty": "No active chats at the moment",
+    "replies": {
+      "ok": "Okay, working on your request",
+      "working": "I'll be there at the scheduled time",
+      "gotIt": "Got the details, thank you",
+      "welcome": "You're welcome anytime"
+    }
+  },
+  "account": {
+    "title": "Account",
+    "settings": "Settings",
+    "editProfile": "Edit Profile",
+    "notifications": "Notifications",
+    "security": "Security & Privacy",
+    "help": "Help & Support",
+    "customize": "Customize your experience",
+    "activeRequests": "Active Requests",
+    "completedRequests": "Completed Requests",
+    "cancelledRequests": "Cancelled Requests",
+    "personalRequests": "Personal Requests",
+    "professionalJobs": "Professional Jobs",
+    "noRequests": "No requests yet",
+    "noRequestsDesc": "Start now and request your first service with Dalil Al-Harafeen.",
+    "delivered": "Delivered",
+    "failed": "Failed",
+    "inProgress": "In Progress"
+  },
+  "settings": {
+    "desc": "Manage your account details and preferences",
+    "general": "General Settings",
+    "proProfile": "Pro Profile",
+    "proProfileDesc": "Manage your professional info and services",
+    "securityPrivacy": "Security & Privacy",
+    "helpCenter": "Help Center",
+    "viewMore": "View More",
+    "logout": "Logout",
+    "phone": "Phone Number",
+    "save": "Save Changes",
+    "saved": "Saved Successfully!",
+    "pro": {
+      "jobTitle": "Job Title",
+      "plumber": "Professional Plumber",
+      "bioLabel": "Professional Bio"
+    },
+    "notifications": {
+      "app": "App Notifications",
+      "email": "Email Notifications",
+      "chat": "Chat Notifications",
+      "orders": "Order Updates"
+    },
+    "security": {
+      "biometric": "Biometric Login",
+      "twoFactor": "Two-Factor Authentication",
+      "changePassword": "Change Password",
+      "currentPassword": "Current Password",
+      "newPassword": "New Password"
+    },
+    "help": {
+      "q1": "How to request a service?",
+      "a1": "Select a craft, fill in the details, and experts will contact you.",
+      "q2": "How to change my location?",
+      "a2": "You can change your address from the new request page or profile settings.",
+      "q3": "Is my data secure?",
+      "a3": "Yes, we use the highest encryption standards to protect your privacy.",
+      "contact": "Contact Technical Support"
+    }
+  },
+  "request": {
+    "newTitle": "Create New Request",
+    "newDesc": "Fill in the details below to broadcast your request to available experts.",
+    "step1": "1. Select Craft",
+    "step2": "2. Job Details",
+    "step3": "3. Schedule & Location",
+    "titlePlaceholder": "Request Title (e.g., Fix leaky faucet)",
+    "descPlaceholder": "Provide a detailed description of the problem or service needed...",
+    "date": "Preferred Date",
+    "time": "Time",
+    "location": "Job Location",
+    "submit": "Broadcast Request Now",
+    "copy": "Copy Request",
+    "stop": "Stop Request",
+    "cancel": "Cancel Request",
+    "fillRequired": "Please fill in all required fields",
+    "success": "Your request has been broadcasted!"
+  }
+}

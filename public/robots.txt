@@ -1,0 +1,14 @@
+User-agent: *
+Allow: /
+Sitemap: https://dalil-marketing.vercel.app/sitemap.xml
+
+Disallow: /chat/
+Disallow: /craftsman/
+Disallow: /order/
+Disallow: /notifications
+Disallow: /settings
+Disallow: /proposals
+Disallow: /active-jobs
+Disallow: /reviews
+Disallow: /market
+Disallow: /account
